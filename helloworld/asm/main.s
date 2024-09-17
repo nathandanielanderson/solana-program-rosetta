@@ -8,3 +8,4 @@ entrypoint:
 	.section	.rodata
 .message:
 	.asciz	"Hello world!"
+;GitHub Test
